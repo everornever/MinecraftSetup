@@ -93,7 +93,8 @@
   - Water Refraction = 2.6
   - Puddles = true
   - Waving Leaves = true
-  - Cloud Hight = 150
+  - Cloud Hight = 150 
+  - keybinding for zoom change to C
   - Cloud Shadow = true
   - Night Nebula = true
   - Hand Sway = Normal
