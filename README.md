@@ -9,7 +9,7 @@
 
 ## 2. Install Mods:
 
-- put these Mods into the mod folder
+- put Mods from client mods folder into your mod folder
 
 ### Performance
 
@@ -66,10 +66,23 @@
 - https://modrinth.com/mod/resourceful-config
 - https://modrinth.com/mod/trinkets
 
-4. - Shader: https://modrinth.com/shader/complementary-reimagined
+# Shader
+
+- unzip and put the complementary shader folder into your shaderpack folder
+- https://modrinth.com/shader/complementary-reimagined
+
+# Resourcepacks:
+- unzip and put the Resourcepacks into your Resourcepack folder
+
+ Order top to bottom:
+  1. Crops
+  2. FA Extensions
+  3. MoreMobVariants
+  4. Xalis
 
 ## 3. Change Settings:
 
+- render distance = 20
 - Ambience Sound > General > Volume = 30
 - Presence Footsteps > Global Audio = 20
 
@@ -86,9 +99,3 @@
   - Hand Sway = Normal
   - Lense Flair = true
   - Cloud Quality = Low
-
-- Resourcepacks Reinfolge:
-  1. Crops
-  2. FA Extensions
-  3. MoreMobVariants
-  4. Xalis
