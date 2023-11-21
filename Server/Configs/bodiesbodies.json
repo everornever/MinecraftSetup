@@ -1,6 +1,6 @@
 {
-  "bodyTurnSkeletonTime": 36000,
-  "bodyAccessibleByAnyoneAfter": 36000,
+  "bodyTurnSkeletonTime": 25000,
+  "bodyAccessibleByAnyoneAfter": 25000,
   "emptyBodyDisappearAfter": 12000,
   "nonEmptyBodyDisappearAfter": -1
 }

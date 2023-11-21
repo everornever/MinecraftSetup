@@ -7,7 +7,7 @@ restrictSleeping = false
 restMultiplier = 2.0
 #The time of day that hammocks can be used.
 #Allowed Values: NONE, DAY, NIGHT, DAY_OR_NIGHT
-hammockUse = "DAY"
+hammockUse = "NIGHT"
 #The time of day that sleeping bags can be used.
 #Allowed Values: NONE, DAY, NIGHT, DAY_OR_NIGHT
 sleepingBagUse = "NIGHT"

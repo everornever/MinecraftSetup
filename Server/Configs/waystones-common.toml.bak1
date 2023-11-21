@@ -111,6 +111,9 @@ worldGenStyle = "BIOME"
 
 [xpCost]
 
+waystoneCostsXp = true
+globalWaystonesCostXp = true
+
 # The amount of blocks per xp level requirement. If set to 500, the base xp cost for travelling 1000 blocks will be 2 levels.
 blocksPerXpLevel = 500
 
