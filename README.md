@@ -84,8 +84,6 @@
   4. Xalis
 
 ## 3. Change Settings:
-
-- render distance = 20
 - Ambience Sound > General > Volume = 30
 - Presence Footsteps > Global Audio = 20
 
