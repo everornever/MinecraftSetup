@@ -33,6 +33,7 @@
 - BodiesBodies: https://modrinth.com/mod/bodies-bodies
 - Entity Model Features: https://modrinth.com/mod/entity-model-features
 - ETF: https://modrinth.com/mod/entitytexturefeatures
+- Lootr: https://modrinth.com/mod/lootr
 
 ### Ambience
 
@@ -41,6 +42,7 @@
 - Sound Physics: https://modrinth.com/mod/sound-physics-remastered
 - More Mob Variants: https://modrinth.com/mod/more-mob-variants/version/1.2.2
 - Creeper Overhaul: https://modrinth.com/mod/creeper-overhaul
+- Explosion: https://modrinth.com/mod/explosive-enhancement
 
 ### Content
 
@@ -49,6 +51,7 @@
 - Bridges: https://www.curseforge.com/minecraft/mc-mods/macaws-bridges
 - Comforts: https://modrinth.com/mod/comforts
 - Artifacts: https://modrinth.com/mod/artifacts
+- Dark Paintings: https://modrinth.com/mod/dark-paintings
 
 ### Needed Library's
 
