@@ -41,7 +41,7 @@
 [health]
 	#Show current amount either as percentage or as absolute value.
 	#Allowed Values: DEFAULT, INCLUDE_MAX, RELATIVE_PERCENTAGE
-	plaque_value = "RELATIVE_PERCENTAGE"
+	plaque_value = "DEFAULT"
 	#Transition text colors depending on current percentage.
 	shift_colors = false
 	#Allow for rendering this type of plaque.
